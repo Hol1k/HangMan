@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\C++ Projects\HangMan\HangMan\main.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++ Projects\HangMan\HangMan\main.cpp(18,50): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\HangMan\HangMan\main.cpp(18,22): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  HangMan.vcxproj -> D:\C++ Projects\HangMan\x64\Debug\HangMan.exe
